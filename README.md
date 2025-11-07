@@ -1,6 +1,6 @@
-<h1> Welcome, I'm Miguel Curvelo </h1> 👋
-<h1>**Systems Engineer**  </h1>
-<h1>Specialist in Software Development | .NET Microservices & Cloud</h1>
+<h1> Welcome, I'm Miguel Curvelo 👋 </h1> 
+<h4>**Systems Engineer**  </h4>
+<h4>Specialist in Software Development | .NET Microservices & Cloud</h4>
 
 ---
 
