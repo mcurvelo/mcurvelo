@@ -1,10 +1,32 @@
 <h1> Welcome, I'm Miguel Curvelo </h1> 👋
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+# Miguel Angel Curvelo Sanchez
 
-🌿 Trying to become a better person every day.
-⌛ I enjoy personal development and productivity.
-🫂 I enjoy working in teams and collaborating with other people.
+**Systems Engineer**  
+Specialist in Software Development | .NET Microservices & Cloud
+
+---
+
+### About Me
+
+- 8+ years of experience in public and private sectors
+- Founder of Grupo IngeMet@ (13 years creating tech solutions)
+- Experience in hydrocarbons, health, and consulting
+- Passionate about AI, cloud computing, and systems architecture
+
+---
+
+### Technologies
+
+![.NET](https://tps://img.shields.io/badge/Java-007396?style=flat&logo=java&logolat&/Power%20BI-F2C811?style=flat&go=amazonaws&logoColorel-angel-curvelo-sanchees management system
+- **Ontime**: Work hours tracking system
+- **Evaluar 360°**: Performance evaluation app
+- **SIGHSE**: Health, safety, and environment management
+
+---
+
+<sub>References available upon request</sub>
+
 <!--
 **mcurvelo/mcurvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
