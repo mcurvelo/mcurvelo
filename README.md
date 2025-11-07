@@ -1,7 +1,4 @@
 <h1> Welcome, I'm Miguel Curvelo </h1> 👋
-
-# Miguel Angel Curvelo Sanchez
-
 **Systems Engineer**  
 Specialist in Software Development | .NET Microservices & Cloud
 
