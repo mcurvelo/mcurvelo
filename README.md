@@ -1,4 +1,4 @@
-<h1>## Welcome, I'm Miguel Curvelo </h1> 👋
+<h1> Welcome, I'm Miguel Curvelo </h1> 👋
 
 I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
