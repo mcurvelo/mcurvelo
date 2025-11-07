@@ -1,5 +1,10 @@
-## Hi there 👋
+## Welcome, I'm Alvaro Capaceta 👋
 
+I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+
+🌿 Trying to become a better person every day.
+⌛ I enjoy personal development and productivity.
+🫂 I enjoy working in teams and collaborating with other people.
 <!--
 **mcurvelo/mcurvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
